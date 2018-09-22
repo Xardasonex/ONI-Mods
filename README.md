@@ -2,6 +2,7 @@
 Oxygen not Included Mods
 
 MaficIron mod adds a recipe to the Metal Refinery
+
 100 Kg of Mafic Rock + 100 Kg of Regolith = 100 Kg of Iron
 
 Best used with the Super Miner Mod https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods
