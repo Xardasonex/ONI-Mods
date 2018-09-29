@@ -14,9 +14,9 @@ Credits goes to @Rainbow, for his HotterThanLava mod https://github.com/rainbowd
 Best used with the BuildingModifier Mod https://github.com/javisar/ONI-Modloader-Mods/tree/BuildingModifier/Mods  where you boost the **consumptionRate** of gas and liquid pumps like that:
 
 
-"LiquidPump":{"Storage": {"capacityKg": <somenumber>},"ElementConsumer": {"consumptionRate": 100, "consumptionRadius":5}},
+"LiquidPump":{"Storage": {"capacityKg": 100},"ElementConsumer": {"consumptionRate": 100, "consumptionRadius":5}},
   
- "GasPump":{"Storage": {"capacityKg": <somenumber>},"ElementConsumer": {"consumptionRate": 100, "consumptionRadius":5}}
+ "GasPump":{"Storage": {"capacityKg": 100},"ElementConsumer": {"consumptionRate": 100, "consumptionRadius":5}}
   
   
   
