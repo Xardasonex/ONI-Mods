@@ -24,3 +24,6 @@ Best used with the BuildingModifier Mod https://github.com/javisar/ONI-Modloader
   
 A big thanks to @trevice for helping me out in all.
 An ultra big thanks to @pardeike for sticking a stupid man's nose into the proper sh...  code
+
+---------------
+SAD a.k.a Super Algae Distillery makes the AD in\output dynamic, according to config file
