@@ -29,9 +29,9 @@ Features:
 
 ~~ boosts Gas/Liquid Shutoff flow capacity, according to pipes capacity value.
 
-~~ Oil Refinery input and ouput ratio is based on of pipes capacity. 
+~~ Oil Refinery input and ouput ratio is based on ratio of pipes capacity. 
 
-~~ Algae Distillery input and ouput ratio is based on of pipes capacity. 
+~~ Algae Distillery input and ouput ratio is based on custom value ("SlimeConsumeKGsPerSecond" value in config).
 
 
 
