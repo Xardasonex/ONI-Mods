@@ -12,7 +12,8 @@ Best used with the [Super Miner Mod](https://github.com/javisar/ONI-Modloader-Mo
 Credits goes to @Rainbow, for his [HotterThanLava mod](https://github.com/rainbowdesign/OxygenNotIncluded-Mods), from which this mod was born.
 
 -------------
-Dynamic Buildings mod. 
+Dynamic Buildings mod
+----
 
 **!!! [ONI-Common.dll](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods) needed !!!** 
 
