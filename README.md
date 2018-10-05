@@ -33,9 +33,20 @@ Features:
 
 ~~ Algae Distillery input and output ratio is based on custom value ("SlimeConsumeKGsPerSecond" value in config).
 
+~~ Conveyor Rails dispensing rate customisable ("Solid" value in config).
+
+-------------
+Stamina mod
+----
+
+The Dupes' stamina is NOT dropping.
 
 
-A big thanks to @trevice for helping me out in all.
+------------------
+------------------
+------------------
+
+A big thanks to @trevice and @Cairath for helping me out in all.
 
 An ultra big thanks to @pardeike for sticking a stupid man's nose into the proper sh...  code
 
