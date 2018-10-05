@@ -1,6 +1,7 @@
 {
 	"liquidandgas": 350,
+	"Solid":150,
 	"STA": 3000,
-	"SlimeConsumeKGsPerSecond": 60,
+	"SlimeConsumeKGsPerSecond": 300,
 	"SuckInRadius": 5
 }
