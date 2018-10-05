@@ -1,6 +1,0 @@
-{
-"liquidandgas":350, //pipes overall capacity
-"STA":3000, //sweeper max carry
-"SlimeConsumeKGsPerSecond":60, //oil refinery. def = 0.6 if you put too high, expect long waiting for algae droppings :)
-"SuckInRadius":5 //of gas\liquid (mini)pumps
-}
