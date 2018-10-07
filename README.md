@@ -41,6 +41,10 @@ Stamina mod
 
 The Dupes' stamina is NOT dropping.
 
+-------------
+Cheety Creety mod
+----
+All critters live for 1000 cycles, fertility last 1900. Incubating period = 1 cycle.
 
 ------------------
 ------------------
