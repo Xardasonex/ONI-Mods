@@ -46,6 +46,8 @@ Cheety Creety mod
 ----
 All critters live for 2000 cycles, fertility last 1900. Incubating period = 1 cycle.
 
+Tame Happy and no overcrowding unhappiness.
+
 ------------------
 ------------------
 ------------------
