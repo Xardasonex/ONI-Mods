@@ -37,6 +37,9 @@ Features:
 
 ~~ Conveyor Rails dispensing rate customisable ("Solid" value in config).
 
+
+++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
+
 -------------
 Stamina mod
 ----
