@@ -43,6 +43,7 @@ Features:
 
 
 ++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
+
 ++ Panel size resized
 
 -------------
