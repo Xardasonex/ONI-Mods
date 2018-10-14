@@ -39,7 +39,7 @@ Features:
 
 ~~ Polymerizer input and output ratio is based on ratio pipes capacity. Be ready for a lot of steam!
 
-~~ Wheezewort dynamified. Emits cold above itself. Cools 2x stronger. Consumes farer and more. On CO2 supplied, converts 1 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs. Temperature span larger.
+~~ Wheezewort dynamified. Emits cold above itself. Cools 2x stronger. Consumes farer and more. On CO2 supplied, converts 3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs. Temperature span larger.
 
 
 ++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
