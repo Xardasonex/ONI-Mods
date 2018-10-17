@@ -62,6 +62,12 @@ All critters live for 2000 cycles, fertility last 1900. Incubating period = 1 cy
 
 Tame Happy and no overcrowding unhappiness.
 
+-------------
+Mega Mopper mod
+----
+Mop 5x faster and ANY q-ty of liquid in a tile
+
+
 ------------------
 ------------------
 ------------------
