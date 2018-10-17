@@ -21,26 +21,29 @@ Dynamic Buildings mod
 
 Features:
 
-~~ boosts gas/liquid pipe capacity, ("liquidandgas" value in config (Affects both gas and liquid pipes).
+~~ boost gas/liquid pipe capacity. Affects both gas and liquid pipes. WARNING - if you change the value to a smaller one while there is substance in the pipes - you'll loose the difference.
 
-~~ boosts sweeper carry capacity ("STA" value in config)
+~~ boosts sweeper carry capacity
 
 ~~ Makes the Oil Refinery to flip horizontally when building
 
-~~ boosts Gas/Liquid pumps and minipumps consuming rate, radius ("SuckInRadius" value in config) and storage, according to the pipes capacity
+~~ boosts Gas/Liquid pumps and minipumps consuming rate, radius and storage, according to the pipes capacity
 
 ~~ boosts Gas/Liquid Shutoff flow capacity, according to pipes capacity value.
 
 ~~ Oil Refinery input and output ratio is based on ratio of pipes capacity. 
 
-~~ Algae Distillery input and output ratio is based on custom value ("SlimeConsumeKGsPerSecond" value in config).
+~~ Algae Distillery input and output ratio is based on custom value.
 
-~~ Conveyor Rails dispensing rate customisable ("Solid" value in config).
+~~ Conveyor Rails dispensing rate customisable.
 
 ~~ Polymerizer input and output ratio is based on ratio pipes capacity. Be ready for a lot of steam!
 
 ~~ Wheezewort dynamified. Emits cold above itself. Cools 2x stronger. Consumes farer and more. On CO2 supplied, converts 3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs. Temperature span larger.
 
+~~ Normal/High pressure Gas Vents dynamified
+
+~~ Metal Refinery partially dynamified (turn on\off coolant heating - usefull for custom recipes)
 
 ++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
 
