@@ -45,6 +45,8 @@ Features:
 
 ~~ Metal Refinery partially dynamified (turn on\off coolant heating - usefull for custom recipes)
 
+~~ Some buildings can work without dupes.
+
 ++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
 
 ++ Panel size resized
