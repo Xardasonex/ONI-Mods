@@ -9,7 +9,7 @@ Adds 2 recipes to the Metal Refinery
 
 Best used with the [Super Miner Mod](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods)
 
-Credits goes to @Rainbow, for his [HotterThanLava mod](https://github.com/rainbowdesign/OxygenNotIncluded-Mods), from which this mod was born.
+Credits goes to , for his [HotterThanLava mod](https://github.com/rainbowdesign/OxygenNotIncluded-Mods), from which this mod was born.
 
 Thank you, bitch, for blocking the double recipe ability...
 
@@ -19,37 +19,9 @@ Dynamic Buildings mod
 
 **!!! [ONI-Common.dll](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods) needed !!!** 
 
-Features:
+Features viewable through the configurator. You can keep the exe wherever you want.
 
-~~ boost gas/liquid pipe capacity. Affects both gas and liquid pipes. WARNING - if you change the value to a smaller one while there is substance in the pipes - you'll loose the difference.
-
-~~ boosts sweeper carry capacity
-
-~~ Makes the Oil Refinery to flip horizontally when building
-
-~~ boosts Gas/Liquid pumps and minipumps consuming rate, radius and storage, according to the pipes capacity
-
-~~ boosts Gas/Liquid Shutoff flow capacity, according to pipes capacity value.
-
-~~ Oil Refinery input and output ratio is based on ratio of pipes capacity. 
-
-~~ Algae Distillery input and output ratio is based on custom value.
-
-~~ Conveyor Rails dispensing rate customisable.
-
-~~ Polymerizer input and output ratio is based on ratio pipes capacity. Be ready for a lot of steam!
-
-~~ Wheezewort dynamified. Emits cold above itself. Cools 2x stronger. Consumes farer and more. On CO2 supplied, converts 3 Kg CO2 = 1 Kg C (coal) + 2Kg O2 (Oxygen) Gives out coal by 100Kg packs. Temperature span larger.
-
-~~ Normal/High pressure Gas Vents dynamified
-
-~~ Metal Refinery partially dynamified (turn on\off coolant heating - usefull for custom recipes)
-
-~~ Some buildings can work without dupes.
-
-++ Added a standalone configurator for the mod. You can keep the exe wherever you want.
-
-++ Panel size resized
+Also some non-mentioned features
 
 -------------
 Stamina mod
@@ -74,14 +46,4 @@ Mop 5x faster and ANY q-ty of liquid in a tile
 ------------------
 ------------------
 
-A big thanks to @trevice and @Cairath for helping me out in all.
-
-An ultra big thanks to @pardeike for sticking a stupid man's nose into the proper sh...  code
-
-------------------
-
-Obsolete mods
-
-*PipesMass
-
-*SAD
+Credits goes to @pardeike, @trevice, @Cairath and @Rainbow for helping me in all.
