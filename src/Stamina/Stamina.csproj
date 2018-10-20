@@ -43,9 +43,6 @@
       <HintPath>..\lib\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="ONI-Common">
-      <HintPath>..\lib\ONI-Common.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -71,6 +68,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy "$(TargetDir)$(TargetFileName)" "c:\Program Files (x86)\Steam\steamapps\common\OxygenNotIncluded\Mods\" /Y</PostBuildEvent>
+    <PostBuildEvent>xcopy "$(TargetDir)$(TargetFileName)" "d:\GAMES\_SteamLibrary\steamapps\common\OxygenNotIncluded\Mods\" /Y</PostBuildEvent>
   </PropertyGroup>
 </Project>

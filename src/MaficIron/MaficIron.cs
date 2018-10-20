@@ -3,8 +3,9 @@ using System.Collections.Generic;
 
 namespace MaficIron
 {
-    [HarmonyPatch(typeof(MetalRefineryConfig), "ConfigureBuildingTemplate", null)]
-	public static class RefineryMercuryMod
+    [HarmonyPatch(typeof(MetalRefineryConfig))]
+    [HarmonyPatch("ConfigureBuildingTemplate")]
+    public static class RefineryMaficIronMod
 	{
 		public static void Postfix()
 		{
@@ -20,10 +21,7 @@ namespace MaficIron
 				time = 0f,
 				useResultAsDescription = true,
 				description = string.Format("Produces {0} from {1} and {2}", ElementLoader.GetElement(recipeElement3.material).name, ElementLoader.GetElement(recipeElement1.material).name, ElementLoader.GetElement(recipeElement2.material).name)
-			}.fabricators = new List<Tag>()
-	{
-	  TagManager.Create("MetalRefinery")
-	};
-		}
+			}.fabricators = new List<Tag>(){TagManager.Create("MetalRefinery")};
+        }
 	}
 }

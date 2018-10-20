@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HotterThanLavaMod1")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("MaficIron")]
+[assembly: AssemblyDescription("MaficIron")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HotterThanLavaMod1")]
-[assembly: AssemblyCopyright("")]
+[assembly: AssemblyCompany("Korriban")]
+[assembly: AssemblyProduct("MaficIron")]
+[assembly: AssemblyCopyright("(c) 2018   Darth Nihilus")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

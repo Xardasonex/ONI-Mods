@@ -5,7 +5,8 @@ using System.Linq;
 using System.Reflection.Emit;
 namespace NoOvercrowd
 {
-    [HarmonyPatch(typeof(OvercrowdingMonitor),"InitializeStates")]
+    [HarmonyPatch(typeof(OvercrowdingMonitor))]
+    [HarmonyPatch("InitializeStates")]
     public static class NoSociopaths
     {
         static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
@@ -32,7 +33,8 @@ namespace NoOvercrowd
 }
 namespace HappyTame
 {
-    [HarmonyPatch(typeof(EntityTemplates),"ExtendEntityToWildCreature")]
+    [HarmonyPatch(typeof(EntityTemplates))]
+    [HarmonyPatch("ExtendEntityToWildCreature")]
     public static class ILikeGrooming
     {
         static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instructions)
