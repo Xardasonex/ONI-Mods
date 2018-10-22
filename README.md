@@ -9,8 +9,6 @@ Adds 2 recipes to the Metal Refinery
 
 Best used with the [Super Miner Mod](https://github.com/javisar/ONI-Modloader-Mods/tree/master/Mods)
 
-Credits goes to , for his [HotterThanLava mod](https://github.com/rainbowdesign/OxygenNotIncluded-Mods), from which this mod was born.
-
 Thank you, bitch, for blocking the double recipe ability...
 
 -------------
@@ -22,6 +20,8 @@ Dynamic Buildings mod
 Features viewable through the configurator. You can keep the exe wherever you want.
 
 Also some non-mentioned features
+
+Medium Battery requires basement until it's built, idk how to deal with that yet, so you can remove the basement after it's built ))
 
 -------------
 Stamina mod
