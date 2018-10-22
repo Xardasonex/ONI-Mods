@@ -39,7 +39,7 @@ Tame Happy and no overcrowding unhappiness.
 -------------
 Mega Mopper mod
 ----
-Mop 5x faster and ANY q-ty of liquid in a tile
+Mop 5x faster and ANY q-ty of liquid in a tile. After SU it's broken.
 
 
 ------------------
