@@ -24,7 +24,7 @@ The Dupes' stamina is NOT dropping.
 -------------
 Cheety Creety mod
 ----
-All critters live for 2000 cycles, every 10 cycles you have a new egg. Incubating period = 1 cycle.
+All critters life duration and reproduction ratecustomizable. Incubating period = 1 cycle. Use the Configurator for setup.
 
 Tame Happy and no overcrowding unhappiness.
 
