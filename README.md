@@ -24,7 +24,7 @@ The Dupes' stamina is NOT dropping.
 -------------
 Cheety Creety mod
 ----
-All critters life duration and reproduction ratecustomizable. Incubating period = 1 cycle. Use the Configurator for setup.
+All critters life duration and reproduction rate customizable. Incubating period = 1 cycle. Use the Configurator for setup.
 
 Tame Happy and no overcrowding unhappiness.
 
